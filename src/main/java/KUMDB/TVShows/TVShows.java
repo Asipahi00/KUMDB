@@ -33,5 +33,5 @@ public class TVShows {
     public String is_adult;
 
     @Column
-    public String cast;
+    public String lead;
 }
