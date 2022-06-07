@@ -31,4 +31,7 @@ public class Movies {
 
     @Column
     public String is_adult;
+
+    @Column
+    public String lead;
 }
